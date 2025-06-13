@@ -7,7 +7,7 @@
 
 ## ✨ Overview
 
-This workflow turns a single still photograph of a person + image of another garment + a control video into a fashion-forward animated clip of the person wearing the garment with movement controlled by the video.
+This workflow turns a single still photograph of a person + image of another garment + a control video into a fashion-forward animated clip of the person wearing the garment with movement controlled by the video. The garment identification is automated via Florence2.
 
 The nodes for animation via Wan 2.1 are taken from here: [Wan 2.1 Fun Control Workflow](https://comfyui-wiki.com/en/tutorial/advanced/video/wan2.1/fun-control)
 
